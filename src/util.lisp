@@ -4,7 +4,7 @@
 
 
 
-(ql:quickload 'sequre-random)
+(ql:quickload 'secure-random)
 
 
 
